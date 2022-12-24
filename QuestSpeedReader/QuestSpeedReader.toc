@@ -4,4 +4,4 @@
 ## Notes: A small addon helping to stay focused on the quest descriptions
 ## Author: cheeseshadow
 
-QuestSpeedRead.lua
+QuestSpeedReader.lua
